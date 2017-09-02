@@ -1,0 +1,6 @@
+G:\PROJECTS\C#\test\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+G:\PROJECTS\C#\test\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+G:\PROJECTS\C#\test\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+G:\PROJECTS\C#\test\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+G:\PROJECTS\C#\test\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+G:\PROJECTS\C#\test\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
