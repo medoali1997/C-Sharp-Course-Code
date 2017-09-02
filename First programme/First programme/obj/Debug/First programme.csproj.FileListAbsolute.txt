@@ -1,0 +1,6 @@
+G:\PROJECTS\C#\test\First programme\First programme\bin\Debug\First programme.exe.config
+G:\PROJECTS\C#\test\First programme\First programme\bin\Debug\First programme.exe
+G:\PROJECTS\C#\test\First programme\First programme\bin\Debug\First programme.pdb
+G:\PROJECTS\C#\test\First programme\First programme\obj\Debug\First programme.csprojResolveAssemblyReference.cache
+G:\PROJECTS\C#\test\First programme\First programme\obj\Debug\First programme.exe
+G:\PROJECTS\C#\test\First programme\First programme\obj\Debug\First programme.pdb
